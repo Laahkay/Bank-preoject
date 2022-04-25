@@ -1,1 +1,1 @@
-# Bank-preoject
+# ATM-kata
